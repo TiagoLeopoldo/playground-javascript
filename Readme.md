@@ -26,7 +26,7 @@ Cada exemplo vem com uma explicação curta e objetiva, servindo como referênci
 ### Módulo 3 — Métodos Modernos de Arrays
 | Desafios   |     | Sobre o desafio    | 🔗                                                                                                                                                                                                                  |
 | --- | --- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Desafio 6 - Transformação com .map()  | <img src="https://skillicons.dev/icons?i=js&theme=dark" width="30px" />  | Em desenvolvimento... | [![Material de Apoio](https://img.shields.io/badge/Ver%20Material-F0DB4F?style=for-the-badge)](https://github.com/TiagoLeopoldo/playground-javascript/blob/main/Desafio6.js) |
+| Desafio 6 - Transformação com .map()  | <img src="https://skillicons.dev/icons?i=js&theme=dark" width="30px" />  | Recebe um array de nomes em caixa alta.</br>Utiliza `.map()` para percorrer e transformar cada item,</br>deixando apenas a primeira letra em maiúscula e o restante em minúsculo,</br>com uso de `charAt()` e `slice()`.</br>Retorna um novo array com os nomes formatados.</br>Utiliza boas práticas de legibilidade e reutilização de funções. | [![Material de Apoio](https://img.shields.io/badge/Ver%20Material-F0DB4F?style=for-the-badge)](https://github.com/TiagoLeopoldo/playground-javascript/blob/main/Desafio6.js) |
 
 
 
