@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".assets/imgs/header.png">
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="200px" /> 
 </p>
 <h1 align="center"> JavaScript Playground </h1>
 
