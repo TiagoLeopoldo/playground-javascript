@@ -1,4 +1,7 @@
-# 🧪 JavaScript Playground
+<p align="center">
+  <img src=".assets/imgs/header.png">
+</p>
+<h1 align="center"> JavaScript Playground </h1>
 
 Bem-vindo ao meu repositório de estudos em JavaScript! Aqui estou reunindo uma série de pequenos desafios resolvidos e comentados, com o objetivo de consolidar conceitos importantes da linguagem enquanto construo uma trilha de aprendizado consistente.
 
