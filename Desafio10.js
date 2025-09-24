@@ -1,5 +1,4 @@
-// 💰 Desafio #7 — Formatador de Preços com .map()
-// 🔧 Módulo 5: Manipulação Funcional de Arrays com JavaScript
+// 💰 Desafio #10 — Formatador de Preços com .map()
 
 // Crie uma função chamada formatPrices que:
 // - Receba um array de números representando preços.

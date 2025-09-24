@@ -1,5 +1,4 @@
 // 🧠 Desafio #5 — Verificador de Faixa Etária e Permissão
-// 🔧 Módulo 4: Controle de Fluxo com Condições
 
 // Crie uma função chamada checkAgeAccess com dois parâmetros:
 // - age → número representando a idade da pessoa
